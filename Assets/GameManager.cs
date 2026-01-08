@@ -73,7 +73,7 @@ public class GameManager : MonoBehaviour
 
         RefreshUI();
 
-        if (_fraudSuccess > maxFraudSuccess)
+        if (_fraudSuccess >= maxFraudSuccess)
         {
             EndGame(false);
             return;
