@@ -4,6 +4,8 @@ You, the red capsule, are a RATP agent—the French public company that operates
 
 ![Game screenshot.](images/ratp-agent-game.png "A screenshot of the game.")
 
+<br>
+
 ### Move around by right-clicking.
 
 ![Game screenshot.](images/move_around.png "A screenshot of the game.")
