@@ -7,25 +7,25 @@ You, the red capsule, are a RATP agent—the French public company that operates
 <br>
 
 ### Move around by right-clicking.
-
 ![Game screenshot.](images/move_around.png "A screenshot of the game.")
+<br>
 
 ### Some passengers pass through the turnstiles normally.
-
 ![Game screenshot.](images/normal_passengers.png "A screenshot of the game.")
+<br>
 
 ### Other cheat by jumping over.
-
 ![Game screenshot.](images/fare_dodgers.png "A screenshot of the game.")
+<br>
 
 ### Stop the fare dodgers in order to check their tickets.
-
 ![Game screenshot.](images/ticket_check.png "A screenshot of the game.")
+<br>
 
 ### You win when the "Voyageurs passés" (Travelers who have already passed through) count reaches 20.
-
 ![Game screenshot.](images/victory_condition.png "A screenshot of the game.")
+<br>
 
 ### But beware! If the "Fraudes réussies" (Successful frauds) count reaches 3, you lose.
-
 ![Game screenshot.](images/defeat_condition.png "A screenshot of the game.")
+<br>
